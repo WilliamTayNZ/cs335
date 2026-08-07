@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace L04_LINQ
+namespace Ex1LINQWhere
 {
-    internal class Person
+    public class Person
     {
         public required string Name { get; set; }
         public int Age { get; set; }
